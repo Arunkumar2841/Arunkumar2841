@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Arunkumar2841
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Arunkumar2841/Arunkumar2841 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+n = int(input("Enter the year"))
+if (n % 4 == 0):
+  print("Leap Year")
+else:
+  print("Not a Leap Year")
+check
